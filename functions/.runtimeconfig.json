@@ -1,0 +1,10 @@
+{
+  "twilio": {
+    "cid": "+18724697666",
+    "destination": "assistant@sipsorcery.com",
+    "sip": {
+      "destination": "assistant@sipsorcery.com"
+    },
+    "timeout": "60"
+  }
+}

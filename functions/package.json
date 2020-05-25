@@ -1,0 +1,14 @@
+{
+  "name": "harperassistant-functions",
+  "description": "Cloud Functions for harper assistant",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "firebase": "",
+    "firebase-admin": "",
+    "firebase-functions": "",
+    "google-libphonenumber": "",
+    "moment-timezone": "",
+    "twilio": ""
+  },
+  "private": true
+}
