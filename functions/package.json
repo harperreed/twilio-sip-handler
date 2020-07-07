@@ -2,7 +2,7 @@
   "name": "harperassistant-functions",
   "description": "Cloud Functions for harper assistant",
   "dependencies": {
-    "cors": "^2.8.5",
+    "cors": "",
     "firebase": "",
     "firebase-admin": "",
     "firebase-functions": "",
